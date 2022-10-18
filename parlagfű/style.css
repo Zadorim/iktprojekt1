@@ -1,0 +1,16 @@
+body{
+    background-color: #9cee59;
+    color: black;
+    }
+
+a:hover,:visited,:link,:active{
+  color: #999999;  
+}
+
+table{
+    width: 980px;
+    padding: none;
+    background-color: #509050;
+    table-layout: 0 auto;
+    text-align: center;
+}
