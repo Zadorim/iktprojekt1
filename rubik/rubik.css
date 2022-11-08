@@ -31,10 +31,13 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: bold;
+  background-color: white;
+  font-style: italic;
 }
 
 li{
-  font-weight:bold;
+  font-weight: bold;
+  list-style-type: square;
 }
 
 
